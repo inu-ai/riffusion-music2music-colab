@@ -11,4 +11,5 @@
 - riffusion-inference - https://github.com/hmartiro/riffusion-inference
 - riffusion-manipulation - https://github.com/chavinlo/riffusion-manipulation
 - gen_img_diffusers - https://note.com/kohya_ss/n/n2693183a798e
+- xformers for colab - https://github.com/camenduru/stable-diffusion-webui-colab
 
